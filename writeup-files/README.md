@@ -1,6 +1,6 @@
 # Offensive Security External CTF Write-up
 ```
-Author: Tomer Gross (mastertg)
+Author: Tomer Gross 
 CTF name: TAMUctf
 Category: Reversing
 Challenge name: REdo 3
