@@ -102,6 +102,8 @@ for (iVar2 = 0x19; iVar2 != 0; iVar2 = iVar2 + -1) {
 
 ![07-rep](https://github.com/TomerGross/TAMUctf/blob/main/writeup-files/07-rep.PNG)
 
+Link to the post: `https://stackoverflow.com/questions/27804852/assembly-rep-movs-mechanism`.
+
 To sum up, we copied 100 bytes of data from `DAT_00012008` to the `local_8c` array, which contains 25 elements*4 bytes of data. Then the next thing we need to figure out is the second loop.
 
 ![08-second_loop](https://github.com/TomerGross/TAMUctf/blob/main/writeup-files/08-second_loop.PNG)
